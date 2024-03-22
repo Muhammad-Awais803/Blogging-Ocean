@@ -130,6 +130,7 @@ const dispatch = useDispatch();
                           onClick={() => deleteTag(item)}
                           className="text-zinc-500"
                         >
+                          X
                         </span>
                       </button>
                     );
